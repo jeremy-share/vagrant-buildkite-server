@@ -1,0 +1,3 @@
+module Secrets
+  BUILDKITE_AGENT_TOKEN = "redacted"
+end
